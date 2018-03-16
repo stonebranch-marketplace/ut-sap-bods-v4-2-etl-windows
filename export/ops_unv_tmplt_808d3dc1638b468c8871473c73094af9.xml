@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-03-16 14:59:01" unload_format="1" unload_table="ops_unv_tmplt" unload_version="6.4.3.0"><ops_unv_tmplt action="INSERT_OR_UPDATE"><credentials_var/><broadcast_cluster/><agent/><use_common_script>false</use_common_script><credentials/><icon_filesize>4802</icon_filesize><icon>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</icon><icon_date_created>2016-09-13 12:17:26</icon_date_created><description>UT running AL_RWJobLauncher.EXE</description><sys_updated_on>2018-03-16 14:55:03</sys_updated_on><agent_var/><icon_filename>bods.png</icon_filename><sys_id>808d3dc1638b468c8871473c73094af9</sys_id><output_return_text/><sys_updated_by>ops.admin</sys_updated_by><variable_prefix>var</variable_prefix><sys_created_on>2016-09-13 12:00:23</sys_created_on><script_windows>#!/usr/local/bin/python2.7
+
+###################################################
+#
+#    Name: run_sapbods.py
+#
+#    Purpose: Run an SAP BODS Job
+#             using AL_RWJobLauncher.exe
+#             
+#             
+#
+#
+#    Prerequisites:
+#     - Universal Agent for Windows/Linux
+#     - Python 2.7.x
+#     - Requires the Python modules
+#     - datetime, re, glob, sys, time, datetime
+#     - Note: module can be added using pip
+#     - e.g. use: pip install re
+#
+#    Disclaimer
+#     No support and no warranty are provided for this Universal Task. 
+#     The use of this document and the related Universal Task is on your own risk.
+#     Before using this task in a production system, please perform extensive testing.
+#     Stonebranch GmbH assumes no liability for damage caused by 
+#     the performance of the Universal Tasks
+#
+#     Version History:
+#     0.1  Nils Buer 2017-12-03 Initial Version
+#     0.2  Nils Buer 2017-12-18 Logging added
+#     0.3  Nils Buer 2018-02-16 Log level as UT Para
+#     0.4  Nils Buer 2018-02-20 removed argparse for UT
+#     0.5  Nils Buer 2018-03-16 more error handling added     
+####################################################
+version = "0.5"
+# Used modules
+
+import re
+import glob
+import sys
+import datetime
+import os 
+import time
+import logging
+
+# -- logging settings DEBUG, INFO, WARNING, ERROR, CRITICAL
+
+logging.basicConfig(level=logging.${ops_var_loglevel}, format=' %(asctime)s - %(levelname)s - %(message)s')
+
+# Sample CLI Command to test in Command Shell or dos Box
+
+
+def main():
+    Set_Variables()                              # -- set variables
+    Check_server()                               # -- check the server an port for connection
+    Test_Dir(rwjldir)                            # -- test is directories exist
+    Test_Dir(jobdir)                             # -- test is directories exist
+    Test_Dir(server_log_path)                    # -- test is directories exist
+    Test_Dir(tracedir)                           # -- test is directories exist
+    Run_Job()                                    # -- start an SAPBODS Job
+    Gettrace_Log()                               # -- retrieves the log file
+    Geterror_Log()                               # -- retrieve error log 
+
+
+# -- Set Variables from Universal Task Form or Command Line Input
+def Set_Variables():
+    logging.info("Executing version " + version + " with the following paramaters")   
+    logging.info('####### Parameters:') # print out all parameters
+    logging.info(r'server_log_path: ${ops_var_server_log_path}')
+    logging.info(r'jobdir: ${ops_var_jobdir}') 
+    logging.info(r'tracedir: ${ops_var_tracedir}')
+    logging.info(r'rwjldir: ${ops_var_rwjldir}')
+    logging.info('parameters: ${ops_var_parameters}')
+    logging.info('poll: ${ops_var_poll}')
+    logging.info('host: ${ops_var_host}')
+    logging.info('port: ${ops_var_port}')
+    logging.info('jobname: ${ops_var_jobname}') 
+    global jobname_file,tracedir,jobdir,server_log_path,rwjldir
+    jobname_file = r'${ops_var_jobdir}\${ops_var_jobname}.txt'
+    server_log_path = r'${ops_var_server_log_path}'
+    rwjldir = r'${ops_var_rwjldir}'
+    jobdir = r'${ops_var_jobdir}'
+    tracedir = r'${ops_var_tracedir}'
+    logging.info('jobname_file: ' + jobname_file) 
+
+    
+def Check_server():
+    import socket
+    s = socket.socket()
+    address = '${ops_var_host}'
+    port = ${ops_var_port}  # port number is a number, not string
+    try:
+        s.connect((address, port)) 
+        # originally, it was 
+        # except Exception, e: 
+        # but this syntax is not supported anymore. 
+        logging.debug(('connection with %s:%d. success') % (address, port))
+    except Exception as e: 
+        print("something's wrong with %s:%d. Exception is %s" % (address, port, e))
+        logging.error(('something is wrong with %s:%d. Exception is %s') % (address, port, e)) 
+        sys.exit(1)
+    finally:
+        s.close()
+
+  
+def Test_Dir(testdir):
+    if os.path.isdir(testdir):
+       logging.debug('Directory found ' + testdir)
+    else:
+       logging.error('Directory not found: ' + testdir)
+       sys.exit(1) 
+
+
+def Run_Job():
+
+  # ## start an SAPBODS Job
+  global start_time
+  logging.info('##### Processing Start ##### ')
+  start_time = time.time() # time when the SAPBO job is started
+  logging.debug('Agent Home DIR: ' + os.getcwd())
+  os.chdir(rwjldir)
+  logging.debug('Dir changed to AL_RWJobLauncher Home DIR: ' + os.getcwd())
+  #  os.system('AL_RWJobLauncher.exe "${ops_var_server_log_path}" ${ops_var_parameters} ${ops_var_poll} "inet:${ops_var_host}:${ops_var_port}" -C "${ops_var_jobdir}\${ops_var_jobname}.txt"')
+  cmd = "AL_RWJobLauncher.exe " + '"' + server_log_path + '"' + " ${ops_var_parameters} ${ops_var_poll} " + '"' + "inet:${ops_var_host}:${ops_var_port}" + '" -C "' + jobname_file + '"'
+  logging.debug ("cmd = " + cmd)
+  os.system(cmd)
+
+def Gettrace_Log():
+  # directories
+  # retrieve the guid form inside the jobnamefile &lt;jobname&gt;.txt
+  f = open(os.path.join(jobname_file), "r")  
+  text = f.read() 
+  guid = re.findall(r'-G"(.*?)"', text)[0]
+  logging.info('Collecting tracefile for job=${ops_var_jobname} ,with guid=' + str(guid))
+
+  trace_file = str(tracedir +"\*trace*"+ str(guid) + '.txt')
+  # trace_file = str("C:\ProgramData\SAP BusinessObjects\Data Services\log\JobServer_1\\bi4_cms_dsn__dba\*trace*" + str(guid) + '.txt')
+
+  # collect all files related to the guid in the log folder and indentify the lastest one
+  list_of_files = glob.glob(trace_file) # * means all if need specific format then *.csv
+  latest_file = max(list_of_files, key=os.path.getctime)
+  latest_file_ct = os.path.getctime(latest_file) # creation date of the tracefile
+  if latest_file_ct &gt;= start_time:
+    # print out latest trace file for the related guid to standard out
+    logging.info('#### Tracefile: ' + latest_file)
+    f = open(os.path.join(latest_file), "r")  
+    text = f.read() 
+    logging.info('##### Trace Log start: ')
+    logging.info (text)
+    logging.info('##### Trace Log End ##### ')
+    logging.info('##### Processing Done ##### ')
+  else:
+    logging.error('No tracefile found ' + latest_file)
+    sys.exit(1)    
+
+def Geterror_Log():
+
+  # retrieve the guid form inside the jobnamefile &lt;jobname&gt;.txt
+  f = open(os.path.join(jobname_file), "r")  
+  job_file = f.read() 
+  guid = re.findall(r'-G"(.*?)"', job_file)[0]
+  logging.debug('Collecting error log for job: ${ops_var_jobname},with guid=' + str(guid))
+  error_file = trace_file = str(tracedir + "\*error*"+ str(guid) + '.txt')
+  # error_file = str("C:\ProgramData\SAP BusinessObjects\Data Services\log\JobServer_1\\bi4_cms_dsn__dba\*error*" + str(guid) + '.txt')
+
+  # collect all files related to the guid in the log folder and indentify the lastest one
+  list_of_files = glob.glob(error_file) # * means all if need specific format then *.csv
+  latest_file = max(list_of_files, key=os.path.getctime)
+  latest_file_ct = os.path.getctime(latest_file) # creation date of the errorfile
+  if latest_file_ct &gt;= start_time:
+    # print out latest error file for the related guid to standard out
+    # 
+    f = open(os.path.join(latest_file), "r")  
+    error_log = f.read()
+    error_msg="error"
+    if error_msg in error_log:
+      logging.error('Error file: ' + latest_file)
+      logging.error('##### Error Log start: ')
+      logging.error(error_log)
+      logging.error('##### Error Log End ##### ')
+      sys.exit(1)
+    else:
+      logging.info('No error found in: ' + latest_file)
+  else:
+    logging.error('No errorfile found: ' + latest_file)
+    sys.exit(1)  
+# -- 
+
+# -- Execute
+main()
+</script_windows><credentials_var_check>false</credentials_var_check><agent_cluster_var/><agent_cluster_var_check>false</agent_cluster_var_check><agent_var_check>false</agent_var_check><sys_created_by>nbuer</sys_created_by><output_return_nline>100</output_return_nline><output_return_sline>1</output_return_sline><exit_code_text/><runtime_dir/><output_type>1</output_type><desktop_interact>false</desktop_interact><output_return_type>1</output_return_type><script_unix/><output_return_file/><run_as_sudo>false</run_as_sudo><script/><agent_type>3</agent_type><script_type_windows>.py</script_type_windows><environment/><agent_cluster/><elevate_user>false</elevate_user><exit_code_output/><name>Run SAP Data service JOB_WIN</name><exit_codes>0</exit_codes><exit_code_processing>1</exit_code_processing><create_console>false</create_console><related_items_node><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-01 16:05:26</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>0c910e50bdf848ebbd2eb3640a7d0c85</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2016-09-13 12:10:18</sys_created_on><field_value>3500</field_value><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>job server port</label><int_field_max/><sequence>1</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>port of the job server, default is 3500</hint><field_mapping>intField1</field_mapping><name>port</name><field_regex/><field_type>2</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-01 16:05:12</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>2e849b0263a04226813680c24da0e9c1</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2016-09-13 12:09:43</sys_created_on><field_value/><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Jobserver Hostname</label><int_field_max/><sequence>0</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>hostname of the Jobserver</hint><field_mapping>textField1</field_mapping><name>host</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-01 16:31:10</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>5c97ec9bf4c348fc88272f6599e2c3d3</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2017-11-01 16:29:06</sys_created_on><field_value>-t30</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Pollinterval</label><int_field_max/><sequence>7</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>-t10 to poll every ten seconds; The time, in seconds, that the Job Server waits before checking a job's status. This is a companion argument for -w. </hint><field_mapping>textField7</field_mapping><name>poll</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-02-16 08:07:51</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>5eb5273d50cb43d7b86cfd2bd4fe2811</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-02-16 08:07:51</sys_created_on><field_value>INFO</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>loglevel</label><int_field_max/><sequence>9</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>DEBUG, INFO, WARNING, ERROR, CRITICAL</hint><field_mapping>choiceField1</field_mapping><name>loglevel</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-12-05 08:17:13</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>667ca799bd8340399a0b6626bdd559ad</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2017-12-05 08:17:13</sys_created_on><field_value/><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>tracedir</label><int_field_max/><sequence>8</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField8</field_mapping><name>tracedir</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-01 16:07:37</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>82dc80bb4f8647d9867b617e0e2318a3</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2017-11-01 15:12:43</sys_created_on><field_value>C:\ProgramData\SAP BusinessObjects\Data Services/log/</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>jobdir</label><int_field_max/><sequence>6</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Directory of the export excutable and text file from SAPBODS </hint><field_mapping>textField6</field_mapping><name>jobdir</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-01 16:04:58</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>82e78721f264448791d396f9548d7d3a</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2017-11-01 15:09:38</sys_created_on><field_value>C:\ProgramData\SAP BusinessObjects\Data Services/log/JobServer_1/</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>server_log_path</label><int_field_max/><sequence>5</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>server log path - The fully qualified path to the location of the log files</hint><field_mapping>textField5</field_mapping><name>server_log_path</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-01 16:06:02</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>905d1b651fdf4626a25746c6f4aefb9b</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2016-09-13 12:22:47</sys_created_on><field_value>-w</field_value><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>RW Job launcher parameters</label><int_field_max/><sequence>4</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>e.g. -w to wait until job is complete</hint><field_mapping>textField4</field_mapping><name>parameters</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2016-09-13 12:12:49</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>cb57310d920b430c88922caad5d63966</sys_id><require_if_field_value/><sys_updated_by>nbuer</sys_updated_by><sys_created_on>2016-09-13 12:12:49</sys_created_on><field_value/><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Jobname</label><int_field_max/><sequence>3</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Data Service Job name</hint><field_mapping>textField3</field_mapping><name>jobname</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-01 16:11:10</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>dc101d8dc1744b8c845d8ddac02f4da5</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2016-09-13 12:12:05</sys_created_on><field_value>C:\Program Files (x86)\SAP BusinessObjects\Data Services\bin\</field_value><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>path to AL_RWJobLauncher</label><int_field_max/><sequence>2</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>directory where AL_RWJobLaunchere is located</hint><field_mapping>textField2</field_mapping><name>rwjldir</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>5eb5273d50cb43d7b86cfd2bd4fe2811</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>3c6e365564124d5b8147db9cce520467</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-02-16 08:21:15</sys_created_on><field_value_label>INFO</field_value_label><field_value>INFO</field_value><sys_updated_on>2018-02-16 08:21:18</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>5eb5273d50cb43d7b86cfd2bd4fe2811</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>63437d37d0bc4c568deebed3bc04f322</sys_id><sequence>2</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-02-16 08:08:31</sys_created_on><field_value_label>WARNING</field_value_label><field_value>WARNING</field_value><sys_updated_on>2018-02-16 08:21:18</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>5eb5273d50cb43d7b86cfd2bd4fe2811</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>d047f9bdb7864e35840876da42bee52d</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-02-16 08:08:17</sys_created_on><field_value_label>DEBUG</field_value_label><field_value>DEBUG</field_value><sys_updated_on>2018-02-16 08:21:18</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>5eb5273d50cb43d7b86cfd2bd4fe2811</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>f680998743e042b19ea014ed6af5a349</sys_id><sequence>3</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-02-16 08:08:46</sys_created_on><field_value_label>ERROR</field_value_label><field_value>ERROR</field_value><sys_updated_on>2018-02-16 08:21:18</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>5eb5273d50cb43d7b86cfd2bd4fe2811</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>f843ef5f22cc44f49310ac19779efbd1</sys_id><sequence>4</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-02-16 08:08:55</sys_created_on><field_value_label>CRITICAL</field_value_label><field_value>CRITICAL</field_value><sys_updated_on>2018-02-16 08:21:18</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>808d3dc1638b468c8871473c73094af9</universal_template_id></ops_unv_tmplt_field_choice></related_items_node></ops_unv_tmplt></unload>
